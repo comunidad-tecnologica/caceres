@@ -18,17 +18,29 @@ Eventos que se celebran en Cáceres:
 
 
 ## :computer: Comunidades
-[1]:https://twitter.com/caceresfront
-[2]:https://twitter.com/wpextremadura
-[3]:https://twitter.com/caceresdevops
-[4]:https://twitter.com/gdgcaceres
-[5]:https://twitter.com/extrepython
-[6]:https://twitter.com/phpcaceres
+
+* [CaceresJS](https://www.caceresjs.com/) -  [twitter](https://twitter.com/caceresfront) 
+* [WPExtremadura](https://www.wpextremadura.es/) -  [twitter](https://twitter.com/wpextremadura) 
+* [CaceresDevops](https://www.meetup.com/es-ES/caceres-devops/) -  [twitter](https://twitter.com/caceresdevops) 
+* [GDG Caceres](https://www.meetup.com/es-ES/GDG-Caceres/) -  [twitter](https://twitter.com/gdgcaceres) 
+* [ExtrePython](https://github.com/ExtrePython) -  [twitter](https://twitter.com/extrepython) 
+* [PhpCaceres](https://www.meetup.com/es-ES/phpcaceres/) -  [twitter](https://twitter.com/phpcaceres) 
 
 
-* [CaceresJS](https://www.caceresjs.com/) [![Twitter][1.1]][1]
-* [WPExtremadura](https://www.wpextremadura.es/) [![Twitter][1.1]][2]
-* [CaceresDevops](https://www.meetup.com/es-ES/caceres-devops/) [![Twitter][1.1]][3]
-* [GDG Caceres](https://www.meetup.com/es-ES/GDG-Caceres/) [![Twitter][1.1]][4]
-* [ExtrePython](https://github.com/ExtrePython) [![Twitter][1.1]][5]
-* [PhpCaceres](https://www.meetup.com/es-ES/phpcaceres/) [![Twitter][1.1]][6]
+<!-- Do not translate this title to keep the number of contributors updated in the badge -->
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="http://danielcastanera.com"><img src="https://avatars3.githubusercontent.com/u/6005590?s=460&v=4" width="100px;" alt="Daniel Castañenera"/><br /><sub><b>Daniel Castañera</b></sub></a>
+    <br/><a href="https://github.com/comunidad-tecnologica/caceres/commits?author=guldoe" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
