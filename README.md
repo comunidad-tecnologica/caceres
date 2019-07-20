@@ -19,12 +19,14 @@ Eventos que se celebran en Cáceres:
 
 ## :computer: Comunidades
 
-* [CaceresJS](https://www.caceresjs.com/) -  [twitter](https://twitter.com/caceresfront) 
-* [WPExtremadura](https://www.wpextremadura.es/) -  [twitter](https://twitter.com/wpextremadura) 
 * [CaceresDevops](https://www.meetup.com/es-ES/caceres-devops/) -  [twitter](https://twitter.com/caceresdevops) 
-* [GDG Caceres](https://www.meetup.com/es-ES/GDG-Caceres/) -  [twitter](https://twitter.com/gdgcaceres) 
+* [CaceresJava](https://www.meetup.com/es-ES/Desarrolladores-Java-JVM-en-Caceres/) -  [twitter](https://twitter.com/caceresjava) 
+* [CaceresJS](https://www.caceresjs.com/) -  [twitter](https://twitter.com/caceresfront) 
 * [ExtrePython](https://github.com/ExtrePython) -  [twitter](https://twitter.com/extrepython) 
+* [GDG Caceres](https://www.meetup.com/es-ES/GDG-Caceres/) -  [twitter](https://twitter.com/gdgcaceres) 
 * [PhpCaceres](https://www.meetup.com/es-ES/phpcaceres/) -  [twitter](https://twitter.com/phpcaceres) 
+* [WPExtremadura](https://www.wpextremadura.es/) -  [twitter](https://twitter.com/wpextremadura) 
+
 
 ## :loudspeaker: Slack Channel
 
