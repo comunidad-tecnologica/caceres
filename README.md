@@ -26,9 +26,13 @@ Eventos que se celebran en Cáceres:
 * [ExtrePython](https://github.com/ExtrePython) -  [twitter](https://twitter.com/extrepython) 
 * [PhpCaceres](https://www.meetup.com/es-ES/phpcaceres/) -  [twitter](https://twitter.com/phpcaceres) 
 
+## :loudspeaker: Slack Channel
+
+* [Bellota-Tech]( https://bellota-tech.slack.com)  -  https://bellota-tech.slack.com
+
 
 <!-- Do not translate this title to keep the number of contributors updated in the badge -->
-## Contributors
+## :smiley: Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
