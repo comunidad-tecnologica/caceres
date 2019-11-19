@@ -10,6 +10,7 @@ Si quieres poner tu granito en este proyecto puedes ver como colaborar en el arc
 Eventos que se celebran en Cáceres:
 
 ### 2020 
+* [EDD - 16 y 17 DE OCTUBRE](https://www.extremaduradigitalday.com/)
 * [DEVOPSDAYS - 5 y 6 DE MARZO](https://devopsdays.cc/)
 
 ### 2019
